@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liaquat Ali</h1>
-<h3 align="center">An experienced Html, CSS, Bootstrap, Javascript, PHP, Laravel, WordPress, Github, </h3>
+<h3 align="center">An experienced Html, CSS, Bootstrap, Javascript, PHP, Laravel, SQL, MySQL, WordPress, Github, </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliaquatali&label=Profile%20views&color=0e75b6&style=flat" alt="iliaquatali" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Html, CSS, Bootstrap, Javascript, PHP, Laravel, WordPress, Github,**
+- 💬 Ask me about **Html, CSS, Bootstrap, Javascript, PHP, Laravel, WordPress, Github, SQL, MySQL,**
 
 - 📫 How to reach me **liaquat0323@gmail.com**
 
