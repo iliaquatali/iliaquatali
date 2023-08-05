@@ -22,7 +22,6 @@
 <a href="https://twitter.com/imliaquatali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imliaquatali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/liaquat-ali-81954523a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liaquat-ali-81954523a" height="30" width="40" /></a>
 <a href="https://fb.com/iamliaquatali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamliaquatali" height="30" width="40" /></a>
-<a href="https://instagram.com/iamliaquatali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamliaquatali/" height="30" width="40" /></a>
 <a href="https://medium.com/@liaquat.ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@liaquat.ali" height="30" width="40" /></a>
 </p>
 
