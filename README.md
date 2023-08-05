@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html, CSS, Bootstrap, Javascript, PHP, Laravel, WordPress, Github, SQL, MySQL,**
 
-- 📫 How to reach me **liaquat0323@gmail.com**
+- 📫 How to reach me **liaquatali996633@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
