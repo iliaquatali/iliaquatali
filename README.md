@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **liaquatali996633@gmail.com**
 
-[- ![Uploading image.png…]()](https://raw.githubusercontent.com/angkosal/angkosal/main/images/nightlife.gif)
+![Example GIF](https://github.com/iliaquatali/image/blob/main/nightlife.gif)
 
 
 ### Blogs posts
