@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Html, CSS, Bootstrap, Javascript, PHP, Laravel, WordPress, Github, SQL, MySQL,**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, PHP, Laravel, WordPress, Github, SQL, MySQL,**
 
 - 📫 How to reach me **liaquatali996633@gmail.com**
 
-- ![Uploading image.png…]()
+[- ![Uploading image.png…]()](https://raw.githubusercontent.com/angkosal/angkosal/main/images/nightlife.gif)
 
 
 ### Blogs posts
